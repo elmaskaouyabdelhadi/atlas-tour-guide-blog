@@ -1,0 +1,17 @@
+# Jekyll Configuration for High Atlas Mountains Tours
+
+title: "High Atlas Mountains Tours"
+description: "A blog dedicated to exploring the breathtaking tours available in the High Atlas Mountains."
+baseurl: ""
+url: "https://yourwebsite.com"
+
+# Build settings
+markdown: kramdown
+paginate: true
+
+# Custom settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
